@@ -1,0 +1,12 @@
+[book]
+authors = ["Michael Aldridge"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Maldridge's Manual for BEST Engineering"
+
+[preprocessor.callouts]
+
+[preprocessor.d2-go]
+layout = "elk"
+theme_id = 0
